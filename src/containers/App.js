@@ -1,6 +1,6 @@
 import { Component } from 'react';
 import '../styles/App.css';
-import logo from '../assets/dolina-logo.png';
+// import logo from '../assets/dolina-logo.png';
 import Main from './Main';
 
 class App extends Component {
