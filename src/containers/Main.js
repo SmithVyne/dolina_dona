@@ -6,7 +6,7 @@ const Main = () => {
     <main>
       <div id="home">
         <Nav status="home" />
-        <h1 id="mainHeader">IN VINO VERITAS</h1>
+        <h1 id="mainHeader">IN VNO VERITAS</h1>
       </div>
       <div id="about-us">
         <Nav status="second" />
