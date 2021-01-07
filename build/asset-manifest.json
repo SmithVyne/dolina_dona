@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a5892e29.chunk.css",
+    "main.js": "/static/js/main.bff8be0e.chunk.js",
+    "main.js.map": "/static/js/main.bff8be0e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d94bbe16.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d94bbe16.js.map",
+    "static/js/2.8cd8e425.chunk.js": "/static/js/2.8cd8e425.chunk.js",
+    "static/js/2.8cd8e425.chunk.js.map": "/static/js/2.8cd8e425.chunk.js.map",
+    "static/js/3.fb7581db.chunk.js": "/static/js/3.fb7581db.chunk.js",
+    "static/js/3.fb7581db.chunk.js.map": "/static/js/3.fb7581db.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.a5892e29.chunk.css.map": "/static/css/main.a5892e29.chunk.css.map",
+    "static/js/2.8cd8e425.chunk.js.LICENSE.txt": "/static/js/2.8cd8e425.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/Главная.83ba56a4.png",
+    "static/media/grapes.86572d01.svg": "/static/media/grapes.86572d01.svg",
+    "static/media/navLogo.588f1474.svg": "/static/media/navLogo.588f1474.svg",
+    "static/media/navlogo2.d87bc37f.svg": "/static/media/navlogo2.d87bc37f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d94bbe16.js",
+    "static/js/2.8cd8e425.chunk.js",
+    "static/css/main.a5892e29.chunk.css",
+    "static/js/main.bff8be0e.chunk.js"
+  ]
+}
